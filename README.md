@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ## Development
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vibrating-string.git
+   git clone https://github.com/fizdeney/vibrating-string.git
    ```
 ## License
 This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
